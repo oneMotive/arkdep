@@ -6,6 +6,7 @@ gnome-console
 gnome-control-center
 gnome-disk-utility
 gnome-initial-setup
+gnome-keyring
 gnome-menus
 gnome-shell
 gnome-software
@@ -24,6 +25,7 @@ cups-pdf
 flatpak
 fuse3
 fwupd
+gnome-tweaks
 gst-plugin-pipewire
 gst-plugins-base
 gst-plugins-good
@@ -37,6 +39,7 @@ gvfs-nfs
 gvfs-smb
 gvfs-wsdd
 ibus-typing-booster
+nano
 networkmanager-openconnect
 networkmanager-openvpn
 noto-fonts
@@ -68,4 +71,17 @@ v4l2loopback-utils
 
 # Fancy stuff
 sudo-rs
-realtime-privileges
+
+# Mike
+brave-bin
+cura-bin
+discord
+fastfetch
+fractal
+steam
+zed
+
+# Alacritty
+libxcb 
+libxkbcommon 
+alacritty

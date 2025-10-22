@@ -1,1 +1,1 @@
-echo "arkanelinux-$(date +%Y-%m-%d)"
+echo "arkanelinux-$(date +%Y-%m-%d-%M)"
