@@ -17,7 +17,7 @@ fakeroot
 git
 glibc-locales
 libnss-extrausers
-linux-headers
+linux-zen-headers
 man-db
 mesa
 neovim
