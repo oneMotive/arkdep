@@ -71,6 +71,7 @@ v4l2loopback-utils
 
 # Fancy stuff
 sudo-rs
+realtime-privileges
 
 # Mike
 brave-bin
@@ -78,6 +79,7 @@ cura-bin
 discord
 fastfetch
 fractal
+ptyxis
 steam
 zed
 
